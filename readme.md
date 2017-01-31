@@ -18,7 +18,7 @@ This package combines [CodeIgniter 2](https://github.com/rogeriopradoj/codeignit
 "repositories" : [
     {
         "type" : "vcs",
-        "url" : "https://github.com/rethink-group/codeigniter-phpunit-2.x.git"
+        "url" : "https://github.com/rethink-group/codeigniter-2-phpunit.git"
     }
 ],
 ```
@@ -33,7 +33,7 @@ $system_path = 'system';
 to
 
 ```php
-$system_path = 'vendor/rethink-group/codeigniter-phpunit-2.x/system';
+$system_path = 'vendor/rethink-group/codeigniter-2-phpunit/system';
 ```
 
 <a name="license"></a>
