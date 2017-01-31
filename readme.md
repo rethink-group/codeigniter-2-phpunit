@@ -22,7 +22,7 @@ This package combines [CodeIgniter 2](https://github.com/rogeriopradoj/codeignit
     }
 ],
 ```
-- Run `composer require rethink-group/codeigniter-phpunit-2.x` to install the package.
+- Run `composer require rethink-group/codeigniter-2-phpunit:dev-master` to install the package.
 
 - Modify `httpdocs/index.php` by changing the following line:
 
