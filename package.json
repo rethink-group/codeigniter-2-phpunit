@@ -1,5 +1,5 @@
 {
-    "name": "rethink-group/codeigniter-phpunit-2.x",
+    "name": "rethink-group/codeigniter-2-phpunit",
     "description": "Combines PHPUnit with CodeIgniter 2",
     "require": {
         "php": "^5.6",
